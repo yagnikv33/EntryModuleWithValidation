@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UnlockTech Task</string>
+    <string name="login_banner">login_banner</string>
+    <string name="sign_in">Sign In</string>
+    <string name="mobile_no_username">Mobile no / Username</string>
+    <string name="otp">OTP</string>
+    <string name="tick_icon">Tick Icon</string>
+    <string name="successfully_created">Successfully Created!</string>
+    <string name="congratulations_your_account_has_been_successfully_created">Congratulations, Your account has been successfully created.</string>
+    <string name="ok">OK</string>
+    <string name="validation_empty_fields">Please fill all the fields</string>
+    <string name="validation_mobile_no_or_email">%1$s is not valid!!</string>
+</resources>
